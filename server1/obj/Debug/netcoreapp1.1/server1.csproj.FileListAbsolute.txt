@@ -1,0 +1,10 @@
+c:\users\bnaveen\source\repos\server1\server1\bin\Debug\netcoreapp1.1\server1.deps.json
+c:\users\bnaveen\source\repos\server1\server1\bin\Debug\netcoreapp1.1\server1.runtimeconfig.json
+c:\users\bnaveen\source\repos\server1\server1\bin\Debug\netcoreapp1.1\server1.runtimeconfig.dev.json
+c:\users\bnaveen\source\repos\server1\server1\bin\Debug\netcoreapp1.1\server1.dll
+c:\users\bnaveen\source\repos\server1\server1\bin\Debug\netcoreapp1.1\server1.pdb
+c:\users\bnaveen\source\repos\server1\server1\obj\Debug\netcoreapp1.1\server1.csprojResolveAssemblyReference.cache
+c:\users\bnaveen\source\repos\server1\server1\obj\Debug\netcoreapp1.1\server1.csproj.CoreCompileInputs.cache
+c:\users\bnaveen\source\repos\server1\server1\obj\Debug\netcoreapp1.1\server1.AssemblyInfo.cs
+c:\users\bnaveen\source\repos\server1\server1\obj\Debug\netcoreapp1.1\server1.dll
+c:\users\bnaveen\source\repos\server1\server1\obj\Debug\netcoreapp1.1\server1.pdb
